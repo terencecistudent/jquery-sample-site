@@ -48,3 +48,13 @@ Navigation
 .border{
   border: solid 5px #ccc;
 }
+
+/* Colour */
+
+.makeRed {
+    background-color: red;
+}
+
+.makeBorder {
+    border-width: 2px;
+}
